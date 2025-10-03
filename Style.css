@@ -1,0 +1,35 @@
+body{
+    background-color:antiquewhite;
+}
+page-acceuil{
+    background-color:antiquewhite;
+}
+page-acceuil{
+    background-color:antiquewhite;
+}
+ol {
+    text-align: center;
+    list-style-position: inside;
+    text-decoration:underline;
+}
+
+img{
+    width: 300px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.menu {
+    background-color: rgb(208, 202, 222);
+    padding: 8px ; 
+    text-align: center;
+
+}
+
+.menu a {
+    color: rgb(14, 44, 70);
+    text-decoration: none;
+    margin: 8px;
+
+}
