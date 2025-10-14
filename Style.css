@@ -1,16 +1,40 @@
 body{
-    background-color:antiquewhite;
+    background-color:black
+}
+.Ceinture_noir {
+    background-color: rgb(207, 132, 132);
+}
+.Les_dernières_volontés_de_mozart{
+    background-color: rgb(227, 231, 235);
+}
+.A_contre_coeur {
+    background-color: azure;
 }
 page-acceuil{
-    background-color:antiquewhite;
+    background-color:black(228, 145, 36);
 }
 page-acceuil{
-    background-color:antiquewhite;
+    background-color:black(165, 28, 28);
 }
 ol {
     text-align: center;
     list-style-position: inside;
     text-decoration:underline;
+}
+
+h1{
+    color: white;
+}
+
+h4{
+    color:white
+}
+
+a {color: white;
+
+}
+ol{
+    color:white;
 }
 
 img{
@@ -21,15 +45,19 @@ img{
 }
 
 .menu {
-    background-color: rgb(208, 202, 222);
+    background-color:rgb(221, 182, 134);
     padding: 8px ; 
     text-align: center;
 
 }
 
 .menu a {
-    color: rgb(14, 44, 70);
+    color:white(42, 13, 171);
     text-decoration: none;
     margin: 8px;
 
+}
+
+.contact {
+    color:white;
 }
